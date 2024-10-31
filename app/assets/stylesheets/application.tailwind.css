@@ -1,0 +1,11 @@
+@import "shadcn.css";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Replace the plain plugin names with proper imports */
+@import "@tailwindcss/forms";
+@import "@tailwindcss/aspect-ratio";
+@import "@tailwindcss/typography";
+@import "@tailwindcss/container-queries";
+@import "tailwindcss-animate";
