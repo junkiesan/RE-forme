@@ -1,4 +1,4 @@
-# MyHealthTracker
+# Re:forme
 
 An intuitive web application built with Ruby on Rails to help you track your diet, monitor your health statistics, and visualize your progress over time.
 
