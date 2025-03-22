@@ -139,7 +139,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Bootstrap/Tailwind CSS**: For styling the frontend.
 - **RSpec**: For testing.
 - **Chartkick/ApexCharts**: For data visualization.
-
----
-
-*Note: Replace `https://github.com/yourusername/myhealthtracker.git` with the actual URL of your repository once it's created.*
